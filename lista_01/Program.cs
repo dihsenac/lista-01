@@ -11,10 +11,11 @@ Console.WriteLine("Digite um numero inteiro ");
 
 int numero = Convert.ToInt32(Console.ReadLine());
 
-if (numero % 2 == 0) ;
+ if (numero % 2 == 0)
 
+   Console.WriteLine("o numero é par");
 
-Console.WriteLine("o numero é par");
+else
 
-else ("o numero é impar");
+    Console.WriteLine("o numero é impar");
 

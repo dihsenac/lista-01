@@ -1,0 +1,15 @@
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.AssemblyInfoInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.AssemblyInfo.cs
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.csproj.CoreCompileInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.sourcelink.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\bin\Debug\net8.0\lista_04.exe
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\bin\Debug\net8.0\lista_04.deps.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\bin\Debug\net8.0\lista_04.runtimeconfig.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\bin\Debug\net8.0\lista_04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\bin\Debug\net8.0\lista_04.pdb
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\refint\lista_04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.pdb
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\lista_04.genruntimeconfig.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\lista_01_ exercicios\lista_01\lista_04\obj\Debug\net8.0\ref\lista_04.dll

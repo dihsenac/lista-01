@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148D6A9F-1506-444F-AF3E-7EED70A96602}|lista_01\\lista_01.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148D6A9F-1506-444F-AF3E-7EED70A96602}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E327F639-1292-49D3-BAB7-874D42361D68}|lista_02\\lista_02.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E327F639-1292-49D3-BAB7-874D42361D68}|lista_02\\lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE60545-92D1-46A0-A677-D60255595BF8}|lista_03\\lista_03.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE60545-92D1-46A0-A677-D60255595BF8}|lista_03\\lista_03.csproj|solutionrelative:lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA01856-F7DA-44BA-80CF-6420B3A5E2A0}|lista_04\\lista_04.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA01856-F7DA-44BA-80CF-6420B3A5E2A0}|lista_04\\lista_04.csproj|solutionrelative:lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14953209-008D-4A16-B801-6DCD90A1F464}|lista_05\\lista_05.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14953209-008D-4A16-B801-6DCD90A1F464}|lista_05\\lista_05.csproj|solutionrelative:lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E163A4-9B77-4199-9E68-33E055EFA64C}|lista_06\\lista_06.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E163A4-9B77-4199-9E68-33E055EFA64C}|lista_06\\lista_06.csproj|solutionrelative:lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD99F320-198D-4F2B-BED6-48E22A12D164}|lista_07\\lista_07.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD99F320-198D-4F2B-BED6-48E22A12D164}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADEDEE2-AB65-455F-8699-42F1AF0A8852}|lista_08\\lista_08.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADEDEE2-AB65-455F-8699-42F1AF0A8852}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD27800-F697-40CF-A4A2-83C747F70810}|lista_09\\lista_09.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD27800-F697-40CF-A4A2-83C747F70810}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A01A3A-E489-4CE3-9B93-69C24E903540}|lista_10\\lista_10.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A01A3A-E489-4CE3-9B93-69C24E903540}|lista_10\\lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_10\\Program.cs",
+              "RelativeDocumentMoniker": "lista_10\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_10\\Program.cs",
+              "RelativeToolTip": "lista_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:27:50.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_09\\Program.cs",
+              "RelativeDocumentMoniker": "lista_09\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_09\\Program.cs",
+              "RelativeToolTip": "lista_09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:27:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_08\\Program.cs",
+              "RelativeDocumentMoniker": "lista_08\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_08\\Program.cs",
+              "RelativeToolTip": "lista_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:26:46.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_07\\Program.cs",
+              "RelativeDocumentMoniker": "lista_07\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_07\\Program.cs",
+              "RelativeToolTip": "lista_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:26:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_06\\Program.cs",
+              "RelativeDocumentMoniker": "lista_06\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_06\\Program.cs",
+              "RelativeToolTip": "lista_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:25:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_05\\Program.cs",
+              "RelativeDocumentMoniker": "lista_05\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_05\\Program.cs",
+              "RelativeToolTip": "lista_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:25:03.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_04\\Program.cs",
+              "RelativeDocumentMoniker": "lista_04\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_04\\Program.cs",
+              "RelativeToolTip": "lista_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:24:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_03\\Program.cs",
+              "RelativeDocumentMoniker": "lista_03\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_03\\Program.cs",
+              "RelativeToolTip": "lista_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:23:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_02\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_02\\Program.cs",
+              "RelativeToolTip": "lista_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:21:51.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_01\\Program.cs",
+              "RelativeDocumentMoniker": "lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\lista_01_ exercicios\\lista_01\\lista_01\\Program.cs*",
+              "RelativeToolTip": "lista_01\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:11:31.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
